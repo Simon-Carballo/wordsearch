@@ -4,9 +4,9 @@ Tell the reader (someone who does not know anything about this project)
 all he/she needs to know. The comments should usually include at least:
 ------------------------------------------------------------------------
 
-PROJECT TITLE:
+PROJECT TITLE: word search game
 PURPOSE OF PROJECT:
 VERSION or DATE:
 HOW TO START THIS PROJECT:
-AUTHORS:
+AUTHORS: Derick Louie, Simon Carballo, Prath
 USER INSTRUCTIONS:
